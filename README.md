@@ -4,6 +4,8 @@ Generates a web worker at runtime from webpack's bundled modules with only the u
 
 inspired by [webworkify](https://github.com/substack/webworkify)
 
+This is a fixed edition for flv.js worker.
+
 # install
 
 ```sh
